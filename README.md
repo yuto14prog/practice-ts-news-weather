@@ -6,4 +6,5 @@
 
 ### コメント
 TypeScriptの練習として。
-初めて触るSCSS記法だけど、良き良き印象。
+- 初めて触るSCSS記法だけど、良き良き印象。
+- Next.jsのIncremental Static Regenerationも軽くチェックした
